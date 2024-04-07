@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @touilwalid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#👋 Hi, I’m @touilwalid
 
-<!---
-touilwalid/touilwalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##Project 1
+
+###The goal of this is to help you understand the data as it relates to the products and outlets that play crucial roles in increasing sales.
+
+![321](https://github.com/touilwalid/touilwalid/assets/157062418/14a35f86-1170-4f27-9c28-00beec016ddb)
+
